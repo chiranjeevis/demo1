@@ -1,0 +1,10 @@
+Introduction:
+
+Hardware execution is generally faster than software running on general-purpose and application-specific computers/Systems. Therefore, the impact of FPGAs in engineering is constantly and rapidly increasing in many directions. Forecasts suggest that the impact of FPGAs will continue to expand and the range of applications will increase significantly in the future. Field-programmable gate ranges (FPGAs) were invented by Ross Freeman in 1984. In general, it is a semiconductor integrated circuit, consists of programmable logic blocks, used to reproduce simple functions up to a complex system on a chip (SoC).
+Reconfiguring engineering applications makes FPGA crucial in the early stages for any embedded project. Some analog circuits and any digital circuit can be implemented using FPGA, so the possibilities are endless.
+
+Problem definition and Outline Research Work:
+
+Computing focusing on applications involving intelligence have forced me to look for alternative approaches to maintaining speed for the design of intensive, high-performance reliable systems. Artificial Neural Network (ANN) based design approach has been instrumental in optimizing the systems manifold, for example targeting the pattern recognition problem in large datasets
+SoCs (System on Chip)/FPGAs (Field programmable hardware devices) are very well adapted for the implementation of ANNs with in-circuit structure adaptation. AI (Artificial Intelligence)/Deep Learning (DL) hardware accelerators have brought new possibilities to apply both AI/DL and Spiking Neural Network (SNN) algorithms to healthcare and biomedical applications.
+My research work is solving computational problems in above applications using SoC/FPGAs. And improvements in optimizing complex systems, ANN topology selection, its training, design activation functions, data supply using serial communication with a computer, production of random number generators, realization of secure communication systems. And cryptography required to build secure applications.
